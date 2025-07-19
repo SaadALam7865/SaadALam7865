@@ -5,9 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;JavaScript+%7C+Python+%7C+Streamlit+Lover;Building+Fast+%26+Responsive+Websites" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-
- # 💫 About Me:
+<h3></h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+# 💫 About Me:
+ 
 🔭 I’m currently working on **Next.js + TypeScript projects** with Tailwind UI  <br>👯 I’m looking to collaborate on **Frontend Projects**, Hackathons & Open Source  <br>🤝 I’m looking for help with **backend logic & API integrations**  <br>🌱 I’m currently learning **Full Stack Development** (MongoDB, Express.js, Node.js)  <br>💬 Ask me about **TypeScript, Next.js, or how to build clean UI with Tailwind**  <br>⚡ Fun fact: I can turn *dead UI designs* into **interactive, living websites** ⚙️🔥<br>
 
 
